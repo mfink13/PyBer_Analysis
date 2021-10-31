@@ -14,10 +14,23 @@
   
   - Fare
     
-    
-    !
+    Depicted in the chart below, the average fare per ride in rural areas is almost ten dollors more than fares in urban areas.  The difference in average fare per driver is even greater when comparing the two, with fares per driver in rural areas being nearly 40 dollars higher than that of urban areas.  The suburban averages per ride and per driver remain in the middle of the rural and urban totals.
+    ![Fares_Type.png](Resources/Fares_Type.PNG)
     
   - Driver Count
+    
+    As displayed in the following image, the amount of drivers in urban areas is vastly greater than the amount in rural areas
+    ![bubble.png](Resources/bubble.PNG)
+    
   - Ride Data
+    
+    
+    ![ride_count.png](Resources/ride_count.PNG)
+    
+    
+## Summary
+
+  
+    
   
   
