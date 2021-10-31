@@ -27,10 +27,28 @@
     With the number of drivers being highest in urban areas and lowest in rural areas, it is no suprise that the same can be said for the amount of rides per city type.  The following image showcases the number of rides per city type, with average amount of rides for urban areas at twenty-four, suburban at seventeen, and rural at six.
     ![ride_count.png](Resources/ride_count.PNG)
     
+  - Date
+
+    The following chart displays total fare by city type, with dates ranging from January through April of 2019.  Two data points to consider are that all three city types have peaks in total fare around the end of February, and while both urban and suburban city types have a drop near the beginning of April, rural fares are higher, in contrast.
+    ![PyBer_fare_summary.png](Analysis/PyBer_fare_summary.png)
+    
     
 ## Summary
 
+  After analyzing the data and viewing data frames and charts, three recommendations can be made:
   
+  - Balance Average Fare per Driver
     
-  ![Pyber_fare_summary.png](Analysis/Pyber_fare_summary.png)
+    Drivers in rural areas are making almost forty dollars more per fare when compared to urban drivers. One can assume this is happening due to rural area drivers having to travel longer distances. A recommendation would be to have a minimum on short rides to increase revenue per ride for urban drivers 
+    
+  - Reassign Drivers on Peak Dates
+
+    Considering that there is an increase in fare in rural areas at the beginning of April and a decrease in urban and suburban areas, a recommendation would be to assign urban and suburban drivers to targeted rural areas during that time.
+    
+  - Decrease Drivers
+
+    The data displays that there are 2,405 total drivers for the urban areas, but only 1,625 rides were calculated.  This suggests that the urban areas are saturated with drivers, which could contribute to each driver making less money. 
+    
+    
+  
   
