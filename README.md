@@ -19,12 +19,12 @@
     
   - Driver Count
     
-    As displayed in the following image, the amount of drivers in urban areas is vastly greater than the amount in rural areas
+    As displayed in the following image, the amount of drivers in urban areas is vastly greater than the amount in rural areas. As with fare data, the suburban areas' driver counts once again fall into the middle of rural and urban areas driver totals.
     ![bubble.png](Resources/bubble.PNG)
     
-  - Ride Data
+  - Ride Count
     
-    
+    With the number of drivers being highest in urban areas and lowest in rural areas, it is no suprise that the same can be said for the amount of rides per city type.  The following image showcases the number of rides per city type, with average amount of rides for urban areas at twenty-four, suburban at seventeen, and rural at six.
     ![ride_count.png](Resources/ride_count.PNG)
     
     
@@ -32,5 +32,5 @@
 
   
     
-  
+  ![Pyber_fare_summary.png](Analysis/Pyber_fare_summary.png)
   
